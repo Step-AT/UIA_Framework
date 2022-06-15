@@ -136,6 +136,7 @@
 			<Item Name="test 04 - ARInit.vi" Type="VI" URL="../tests/test 04 - ARInit.vi">
 				<Property Name="marked" Type="Int">0</Property>
 			</Item>
+			<Item Name="test 05 - New Chan with no loss.vi" Type="VI" URL="../tests/test 05 - New Chan with no loss.vi"/>
 		</Item>
 		<Item Name="UI_Actor.lvlib" Type="Library" URL="../UI_Actor/UI_Actor.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
